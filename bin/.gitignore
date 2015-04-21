@@ -1,0 +1,11 @@
+/.DS_Store
+/cmd/
+/group/
+/hdfs/
+/hmbbs_logs/
+/mapred/
+/org/
+/partition/
+/rpc/
+/sort/
+/suanfa/
